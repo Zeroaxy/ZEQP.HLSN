@@ -17,8 +17,8 @@ namespace PreviewDemo
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Login());
-            //Application.Run(new ProductionLine());
+            //Application.Run(new CameraDVR());
+            Application.Run(new ProductionLine());
         }
     }
 }
